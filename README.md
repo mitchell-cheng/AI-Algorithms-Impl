@@ -1,2 +1,7 @@
 # AI-Algorithms-Imp
-Python implementation of algorithms in Artificial Intelligence: A Modern Approach
+
+Implementation of algorithms from _Artificial Intelligence: A Modern Approach_
+
+## II Problem-solving
+
+### Chapter 3 Solving Problems by Searching
